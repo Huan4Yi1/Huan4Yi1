@@ -1,16 +1,15 @@
 ## Hi there 👋
-
-<!--
-**Huan4Yi1/Huan4Yi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+public class Huan4Yi1
+{
+    public static void Main()
+    {
+        var introduction = new Developer(
+            name: "幻伊",
+            languages: new List<string> { "C#", "Go", "Java", "Kotlin"/*, "C艹"*/ },
+            favorite: "C#",
+            github: "@Huan4Yi1"
+        );
+    }
+}
+```
