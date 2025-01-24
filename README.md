@@ -6,7 +6,7 @@ public class Huan4Yi1
     {
         var introduction = new Developer(
             name: "幻伊",
-            languages: new List<string> { "C#", "Go", "Java", "Kotlin"/*, "C艹"*/ },
+            languages: new List<string> { "C#", "Go", "Java", "Kotlin", "C艹" },
             favorite: "C#",
             github: "@Huan4Yi1"
         );
